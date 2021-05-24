@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying on [Microverse as a Full Stack Developer!](https://www.microverse.org/)
 
-- 🌱 I’m currently learning **Databases and SQL**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 💬 Ask me about **Python, my pets, jRPGS!**
 
